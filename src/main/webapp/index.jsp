@@ -1,7 +1,7 @@
 <html>
 <body>
 <<<<<<< HEAD
-<h1>Congratualtion</h1>
+<h1>Congratualtion murali</h1>
 <h2>
 <marquee>murali</marquee>
 =======
@@ -13,6 +13,7 @@
 <img src="image/image.jpg" alt="logo"> 
 </body>
 </html>
+
 
 
 
